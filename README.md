@@ -45,6 +45,7 @@ O processo manual de avaliação de crédito gera gargalos, é sujeito a erros e
   - Dashboard interativo no Looker Studio com análise de perfis de risco.
 
 ## Principais Insights
+👉 [Link para a Apresentação](https://www.loom.com/share/7997995cf1a749d2aaa1351fb475ae75)
 - **Uso elevado do limite de crédito** é o maior preditor de inadimplência (RR = 44,65).
 - **Idade (21-41 anos)** apresenta risco 2,5 vezes maior que a média.
 - **Maior número de dependentes e alta taxa de endividamento** também elevam o risco.
