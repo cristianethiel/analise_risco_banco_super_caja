@@ -43,6 +43,8 @@ O processo manual de avaliação de crédito gera gargalos, é sujeito a erros e
   - Modelo estatístico preditivo (Regressão Logística).
 - **Visualização:**
   - Dashboard interativo no Looker Studio com análise de perfis de risco.
+ 
+*Os resultados completos das análises e as recomendações estratégicas na [Ficha Técnica](/documentacao/ficha_tecnica_risco.pdf).*
 
 ## Principais Insights
 👉 [Link para a Apresentação](https://www.loom.com/share/7997995cf1a749d2aaa1351fb475ae75)
