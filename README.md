@@ -53,7 +53,7 @@ O processo manual de avaliação de crédito gera gargalos, é sujeito a erros e
 
 ## Data Visualization
 Acompanhe os insights no dashboard publicado:  
-👉 [Link para o Dashboard no Looker Studio](###)
+👉 [Link para o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/4f9b8cf6-444a-4193-a9a8-005472d73cef)
 
 ## Analista de Dados
 Cristiane Thiel  
